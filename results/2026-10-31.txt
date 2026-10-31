@@ -1,0 +1,18 @@
+2026-10-31 Quantum Inspire QX emulator (job 1645454)
+shots: 1024  qubits: 5  distinct outcomes: 16 of 32 possible
+entropy: 3.3 bits (max 5.0, ratio 0.661) — between wide and gathered
+effective outcomes: 9.9  top outcome 11111 (14.1% of shots)  top 8 share: 94.2%
+chi-square vs uniform over all possible outcomes: 2656.6
+
+most visited outcomes:
+  11111    144  ########################################
+  10111    128  ####################################
+  11100    121  ##################################
+  11101    118  #################################
+  11110    117  ################################
+  10110    115  ################################
+  10101    112  ###############################
+  10100    110  ###############################
+  00000     14  ####
+  01001     10  ###
+  ... and 6 more
